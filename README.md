@@ -6,6 +6,7 @@
 * **find_best_parameters.py:** Python script for hyperparameter tuning of the deep learning model.
 * **LSTM_GRU.py:** Python script implementing the final deep learning model with optimized hyperparameters. 
 
+# How to Run:
 *  Replace "data.csv" with your own dataset.
 *  Install required Python libraries: pandas, numpy, scikit-learn, tensorflow.
 *  Run "find_best_parameters.py" to determine optimal hyperparameters.
